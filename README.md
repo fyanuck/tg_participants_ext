@@ -1,2 +1,4 @@
-# tg_participants_ext
-A small script for getting participants of one's own Telegram chat/channel/etc
+# Telegram Participants Scraper
+A small script for getting participants of one's own Telegram chat/channel/etc.
+
+**Disclaimer:** No harmful actions are encouraged nor directly allowed in this script.
